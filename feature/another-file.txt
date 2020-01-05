@@ -9,3 +9,5 @@ Test
 test 2
 
 This line was edited in feature-2 branch
+
+Another modification in the feature-2 branch
