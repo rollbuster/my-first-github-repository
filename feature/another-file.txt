@@ -5,3 +5,5 @@ This file was modified locally
 Another file edited
 
 Test
+
+test 2
